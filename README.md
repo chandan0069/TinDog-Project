@@ -33,7 +33,3 @@ Simply open the website in your web browser and start exploring!
 
 ## Credits
 - [Bootstrap](https://getbootstrap.com/)
-- [TechCrunch](https://techcrunch.com/)
-- [Mashable](https://mashable.com/)
-- [Business Insider](https://www.businessinsider.com/)
-- [The Next Web](https://thenextweb.com/)
